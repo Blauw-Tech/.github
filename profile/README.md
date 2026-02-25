@@ -18,4 +18,3 @@ BlauwTech es una consultora tecnológica especializada en soluciones Cloud, CI/C
 Si necesitas que adaptemos esta plantilla corporativa para un cliente o repositorio específico, contacta con nuestro equipo a través del correo anterior.
 
 ---
-_Este perfil es un placeholder para la organización BlauwTech — sustituye el banner y añade enlaces a redes/proyectos según convenga._
