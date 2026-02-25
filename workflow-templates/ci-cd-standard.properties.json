@@ -1,9 +1,6 @@
 {
-  "name": "CI/CD Standard (BlauwTech)",
-  "description": "Plantilla organizacional para GitHub Actions: lint, security scan y placeholder de deploy.",
-  "iconName": "workflow",
-  "branding": {
-    "color": "#0d6efd",
-    "logoUrl": "https://blauwtech.com/logo.png"
-  }
+  "name": "BlauwTech CI/CD Standard",
+  "description": "Pipeline corporativo con Linting y Seguridad.",
+  "iconName": "rocket",
+  "file": "ci-cd-standard.yml"
 }
