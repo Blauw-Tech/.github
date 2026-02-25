@@ -1,0 +1,9 @@
+{
+  "name": "CI/CD Standard (BlauwTech)",
+  "description": "Plantilla organizacional para GitHub Actions: lint, security scan y placeholder de deploy.",
+  "iconName": "workflow",
+  "branding": {
+    "color": "#0d6efd",
+    "logoUrl": "https://blauwtech.com/logo.png"
+  }
+}
